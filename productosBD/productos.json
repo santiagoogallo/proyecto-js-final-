@@ -1,0 +1,124 @@
+{
+    "productos": [
+    {
+        "id": "buzo01",
+        "titulo": "Buzo black&white",
+        "imagen": "../imgs/buzos/buzo black and white.jpg",
+        "categoria": {
+            "id": "buzos",
+            "nombre": "buzos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "buzo02",
+        "titulo": "Buzo blue",
+        "imagen": "../imgs/buzos/buzo blue.jpg",
+        "categoria": {
+            "id": "buzos",
+            "nombre": "buzos"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "buzo3",
+        "titulo": "Buzo boreal",
+        "imagen": "../imgs/buzos/buzo boreal.jpg",
+        "categoria": {
+            "id": "buzos",
+            "nombre": "buzos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "pantalon1",
+        "titulo": "Pantalon black",
+        "imagen": "../imgs/pantalones/pantalon black.jpg",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "pantalones"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "pantalon2",
+        "titulo": "Pantalon brown",
+        "imagen": "../imgs/pantalones/pantalon brown.jpg",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "pantalones"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "pantalon3",
+        "titulo": "Pantalon jean",
+        "imagen": "../imgs/pantalones/pantalon jean.jpg",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "pantalones"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "remera1",
+        "titulo": "Remera fvking",
+        "imagen": "../imgs/remeras/remera fuking.jpg",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "remeras"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "remera2",
+        "titulo": "Remera leave the road",
+        "imagen": "../imgs/remeras/remera leave the road.jpg",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "remeras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "remera3",
+        "titulo": "Remera out cast",
+        "imagen": "../imgs/remeras/remera out cast.jpg",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "remeras"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "zapatilla1",
+        "titulo": "Zapatillas orange&white",
+        "imagen": "../imgs/zapatillas/orange and white.jpg",
+        "categoria": {
+            "id": "zapatillas",
+            "nombre": "zapatillas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "zapatilla2",
+        "titulo": "Zapatillas rainbow",
+        "imagen": "../imgs/zapatillas/rainbow.jpg",
+        "categoria": {
+            "id": "zapatillas",
+            "nombre": "zapatillas"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "zapatilla3",
+        "titulo": "Zapatillas Blue&white",
+        "imagen": "../imgs/zapatillas/bluewhite.jpg",
+        "categoria": {
+            "id": "zapatillas",
+            "nombre": "zapatillas"
+        },
+        "precio": 2500
+    }
+    ]
+}
